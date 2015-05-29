@@ -13,6 +13,9 @@ public class Usuario {
     //primer regla del encapsulamiento
    private String nombre;
     private int edad;
+
+    public Usuario() {
+    }
     
     public void setNombre(String x){
         nombre=x;
