@@ -89,7 +89,7 @@ public class Memorama extends javax.swing.JFrame {
         jLabel1.setText("jLabel1");
         jLabel1.setBorder(javax.swing.BorderFactory.createMatteBorder(1, 1, 1, 1, new java.awt.Color(0, 255, 255)));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/proyecto/dog.png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\T101\\Documents\\NetBeansProjects\\lenguajes-FaridSB\\src\\proyecto\\dog.png")); // NOI18N
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
